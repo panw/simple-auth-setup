@@ -1,4 +1,4 @@
-platform :ios, '8.4'
+platform :ios, '9.2'
 use_frameworks!
 xcodeproj './ios/HiYa.xcodeproj'
 
